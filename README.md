@@ -2,7 +2,12 @@
 
 ![](https://github.com/hshekhar-0802/Guardian-Trails/assets/137338952/0ac3935a-11a1-4e67-b502-5d3955100e48)
 
-
+```
+pip install -r requirements.txt
+```
+```
+python3 controller.py
+```
 ## Save Wildlife: Say No to Poaching!
 
 - Poaching is a devastating threat to wildlife worldwide, fueled by illegal trade and

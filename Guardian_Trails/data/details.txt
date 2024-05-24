@@ -1,0 +1,3 @@
+used button generator website to get image of buttons 
+used audio assets from itch.io for main_menu_audios
+used google images of pixel arts of nature for main_menu background

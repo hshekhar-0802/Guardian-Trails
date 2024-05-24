@@ -42,13 +42,13 @@ species.
 
 ## Animals in Highlight
 
-1. Rhino –Rhinos are generally found in the grasslands and swampy areas like Assam in
+1. <strong><em>Rhino</em></strong> –Rhinos are generally found in the grasslands and swampy areas like Assam in
     India. They have been hunted down greatly due to their precious horn.
-2. Addax -The addax, also known as the white antelope or screwhorn antelope, is a
+2. <strong><em>Addax</em></strong> -The addax, also known as the white antelope or screwhorn antelope, is a
     species of antelope native to the Sahara Desert and parts of North Africa. Threats such
     as habitat loss, hunting for meat and trophies, and competition with domestic livestock
     have contributed to their decline.
-3. Polar Bear - Polar bears are found throughout the Arctic Circle, primarily on the sea
+3. <strong><em>Polar Bear</em></strong> - Polar bears are found throughout the Arctic Circle, primarily on the sea
     ice of the Arctic Ocean. They are highly adapted to their icy environment and rely on
     sea ice for hunting seals, their primary food source. They have been hunted down due
     to their fur and meat.
@@ -58,11 +58,11 @@ species.
 
 The libraries used for building the game are:
 
-- PyGame –It provides functionalities for handling graphics, sound, input devices like
+- <strong><em>PyGame</em></strong> –It provides functionalities for handling graphics, sound, input devices like
     keyboards and mice, and more. Pygame is built on top of the Simple DirectMedia Layer
     (SDL), which is a low-level multimedia library that Pygame wraps to make game development
     easier in Python.
-- Pyvidplayer2 –It is a python library used to play videos. It works similar to pyvidplayer.
+- <strong><em>Pyvidplayer2</em></strong> –It is a python library used to play videos. It works similar to pyvidplayer.
 To build the game, object-oriented methods were deployed. Physics of various objects were defined
 separately and how they interact with each other is also defined, for ex: collision, falling down due to
 gravity, not getting hurt due to shield, attacking an enemy, walking, jumping, sliding, etc.

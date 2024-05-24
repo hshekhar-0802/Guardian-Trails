@@ -1,5 +1,7 @@
 # Guardain Trails
 
+![](https://github.com/hshekhar-0802/Guardian-Trails/assets/137338952/0ac3935a-11a1-4e67-b502-5d3955100e48)
+
 
 ## Save Wildlife: Say No to Poaching!
 
